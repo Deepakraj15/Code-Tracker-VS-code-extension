@@ -1,7 +1,7 @@
 import  * as vscode from 'vscode';
 import 'dotenv/config';
 
-export const getGitHubAuth = async() =>{
+export const getGitHubAuthSession = async() =>{
     const GITHUB = "github";
     const scopes =['repo, user:email','delete_repo'];
     try{
