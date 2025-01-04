@@ -16,6 +16,10 @@
       {
         "command": "code-tracker.main",
         "title": "Run Code Tracker"
+      },
+      {
+        "command": "code-tracker.settings",
+        "title": "Open Code Tracker Settings"
       }
     ]
   },
